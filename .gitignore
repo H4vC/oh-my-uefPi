@@ -1,0 +1,7 @@
+# Build output and downloaded or generated inputs; config.txt holds the API key.
+/build/
+/vendor/
+/serve/
+/config.txt
+/ca.der
+*.mp4

@@ -1,0 +1,6 @@
+# Copied to the ESP root as config.txt. Comments on their own lines only.
+url=https://api.deepseek.com/v1
+model=deepseek-flash
+key=sk-...
+# DeepSeek V4 models think by default and then reject tool rounds without their reasoning_content.
+thinking=disabled

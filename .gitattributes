@@ -1,0 +1,2 @@
+# LF everywhere: the WSL Makefile runs tools/*.sh directly, and CRLF breaks them.
+* text=auto eol=lf
